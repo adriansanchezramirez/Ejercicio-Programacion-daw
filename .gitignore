@@ -1,0 +1,6 @@
+#Archivo compilados
+
+*.class
+*Copias de seguridad
+*.zip
+*.rar
