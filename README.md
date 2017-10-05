@@ -2,7 +2,7 @@
 
 Ejercicios de la asignatura  ***Programación*** de 1ºDAW (Desarrollo de Aplicaciones Web) del IES Campanillas
 
-##Ejemplo de un programa en Java
+## Ejemplo de un programa en Java
 
 A continuación se muestra el programa *Ejercicio1* en Java.
 
