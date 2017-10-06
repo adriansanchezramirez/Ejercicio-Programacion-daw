@@ -31,6 +31,12 @@ Para ejecutar el programa se ejecuta asi:
 java Ejercicio1
 ```
 
+## Que se estudia en Programación
+
+* Lenguaje de Programación Java
+* Comando de Linux
+* Git y Github
+
 
 ## Bibliografia 
 
