@@ -40,7 +40,7 @@ java Ejercicio1
 
 ## Bibliografia 
 
-![portada](https://s3.amazonaws.com/titlepages.leanpub.com/aprendejava/hero?1477410031)
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/aprendejava/hero?1477410031" width="240px">
 
 [Aprende Java con Ejercicios](https://leanpub.com/aprendejava/)
 
