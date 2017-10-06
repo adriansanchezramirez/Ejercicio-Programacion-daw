@@ -30,3 +30,12 @@ Para ejecutar el programa se ejecuta asi:
 ```console
 java Ejercicio1
 ```
+
+
+## Bibliografia 
+
+![portada](https://s3.amazonaws.com/titlepages.leanpub.com/aprendejava/hero?1477410031)
+
+[Aprende Java con Ejercicios](https://leanpub.com/aprendejava/)
+
+
