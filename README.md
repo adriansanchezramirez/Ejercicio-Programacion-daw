@@ -31,11 +31,11 @@ Para ejecutar el programa se ejecuta asi:
 java Ejercicio1
 ```
 
-## Que se estudia en Programación
+## Que se estudia en Programación :computer:
 
-* Lenguaje de Programación Java
-* Comando de Linux
-* Git y Github
+* Lenguaje de Programación Java :coffee:
+* Comando de Linux :penguin:
+* Git y Github :octocat:
 
 
 ## Bibliografia 
