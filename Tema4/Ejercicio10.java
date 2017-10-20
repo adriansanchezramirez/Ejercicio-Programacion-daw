@@ -14,7 +14,7 @@ public class Ejercicio10 {
     System.out.print("Introduzca el número del mes en que nació: ");
     int mes = Integer.parseInt(System.console().readLine());
     
-    System.out.print("Introduzca el día: ");
+    System.out.print("Introduzca el día del mes en que nació: ");
     int dia = Integer.parseInt(System.console().readLine());
     
     switch(mes) {

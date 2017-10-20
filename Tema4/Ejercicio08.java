@@ -41,7 +41,7 @@ public class Ejercicio08 {
    if ((media >=9) && (media <=10)){
 	   System.out.println("Sobresalienre"); 
    }
-   if (media >10) {
+   if ((media >10) || (media <0)){
 	   System.out.println("No puedes tener esta nota"); 
    }
   }

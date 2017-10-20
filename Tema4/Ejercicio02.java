@@ -19,11 +19,11 @@ public class Ejercicio02 {
 	    System.out.println("Buenas tardes");
 	}
 	
-	if (((hora >=21) && (hora <=24)) || ((hora ==0) && (hora <=5))){
+	if (((hora >=21) && (hora <=23)) || ((hora ==0) && (hora <=5))){
 	    System.out.println("Buenas noches");
 	}
 	
-	if ((hora >24) || (hora <0)){
+	if ((hora >23) || (hora <0)){
 	    System.out.println("No existe esta hora");
 	}
   }

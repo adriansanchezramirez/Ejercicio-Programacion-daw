@@ -8,7 +8,7 @@
 public class Ejercicio06 {
   public static void main(String[] args) {
 
-    double g= 9.81;
+    final double g= 9.81;
     System.out.print("Introduce la altura(cm) desde que cae el objeto: ");
     Double h= Double.parseDouble(System.console().readLine());
     
