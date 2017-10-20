@@ -15,13 +15,13 @@ public class Ejercicio11 {
     System.out.print("Introduce los minutos  (de 0 a 59): ");
     int minutos = Integer.parseInt(System.console().readLine());
     
-    int segundosPasados= (hora * 3600) + (minutos * 60);
-    int segundosQueFaltan= (24 * 3600) - segundosPasados;
-    
     if ((hora >23) || (minutos >59)){
 		System.out.println("No existe esta hora");
 	}
-    
-    System.out.println("Quedan " + segundosQueFaltan + " segundos");
+		
+    int segundosPasados= (hora * 3600) + (minutos * 60);
+    int segundosQueFaltan= (24 * 3600) - segundosPasados;
+  
+    System.out.println("Quedan " + segundosQueFaltan + " segundos hasta medianoche");
   }
 }
