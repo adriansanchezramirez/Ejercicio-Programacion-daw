@@ -8,11 +8,11 @@
 public class Ejercicio11 {
   public static void main(String[] args) {
 
-    System.out.println("Mostraremos los segundos que faltan para la meidanoche");
-    System.out.print("Introduce la hora: ");
+    System.out.println("Mostraremos los segundos que faltan para la medianoche");
+    System.out.print("Introduce la hora (de 0 a 23): ");
     int hora = Integer.parseInt(System.console().readLine());
     
-    System.out.print("Introduce los minutos: ");
+    System.out.print("Introduce los minutos  (de 0 a 59): ");
     int minutos = Integer.parseInt(System.console().readLine());
     
     int segundosPasados= (hora * 3600) + (minutos * 60);
