@@ -23,7 +23,7 @@ public class Ejercicio13 {
       numero++;
     }
     
-    System.out.println("Tienes " + positivos + " positivos y " + negativos + " negativos");
+    System.out.println("Tienes " + positivos + " numeros positivos y " + negativos + " numeros negativos");
     
   }
 }
