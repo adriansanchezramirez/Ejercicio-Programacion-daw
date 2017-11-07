@@ -18,7 +18,7 @@ public class Ejercicio25 {
     while (numero > 0) {
       volteado = (volteado * 10) + (numero % 10);
       numero /= 10;
-    } // while
+    } 
     
     System.out.println("Si le damos la vuelta al " + numeroIntroducido + " tenemos el " + volteado);
   }
