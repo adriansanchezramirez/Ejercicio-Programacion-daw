@@ -1,13 +1,12 @@
 /**
-* Ejercicio06.Escribe un programa que piense un número al azar entre 0 y 100. El usuario
-* debe adivinarlo y tiene para ello 5 oportunidades. Después de cada intento
-* fallido, el programa dirá cuántas oportunidades quedan y si el número intro-
-* ducido es menor o mayor que el número secreto.
+* Ejercicio08.Modifica el programa anterior para que la probabilidad de que salga un 1 sea
+* de 1/2, la probabilidad de que salga x sea de 1/3 y la probabilidad de que salga
+* 2 sea de 1/6. Pista: 1/2 = 3/6 y 1/3 = 2/6.
 *
 * @author Adrián Sánchez Ramriez
 */
 
-public class Ejercicio07 {
+public class Ejercicio08 {
   public static void main(String[] args) {
 
     int resultadoPartido;
@@ -21,16 +20,23 @@ public class Ejercicio07 {
       }
     
     for (int apuesta = 1; apuesta <= columnas; apuesta++) {
-        resultadoPartido = (int)(Math.random() * 3) + 1;
+        resultadoPartido = (int)(Math.random() * 6) + 1;
         switch(resultadoPartido) {
           case 1:
+            
+          case 2:
+          
+          case 3:
             System.out.print("1  |");
             break;
-          case 2:
+          case 4: 
+            
+          case 5:
+            System.out.print(" X |");
+            break;
+          case 6:
             System.out.print("  2|");
             break;
-          case 3:
-            System.out.print(" X |");
           default:
         }
       }

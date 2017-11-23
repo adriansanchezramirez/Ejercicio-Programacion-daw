@@ -13,7 +13,7 @@ public class Ejercicio09 {
     int numero= 0;
     
     while (numero != 24){
-       numero= (int)((Math.random()*51)*2);
+      numero= (int)((Math.random()*51)*2);
       System.out.print(numero + " ");
       contador++;
     }
