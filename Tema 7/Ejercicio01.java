@@ -18,7 +18,7 @@ public class Ejercicio01 {
    
     
     
-    System.out.println("Los valores del array n son los siguientes: ");
+    System.out.println("Los valores del array num son los siguientes: ");
     for (int i = 0; i < 12; i++) {
       System.out.println(num[i]);
     }
